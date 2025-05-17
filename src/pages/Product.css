@@ -1,0 +1,42 @@
+.product-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.product-section {
+  margin-bottom: 4rem;
+}
+
+.product-section h2 {
+  color: #333;
+  margin-bottom: 1.5rem;
+}
+
+.product-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.product-section li {
+  background: #f8f9fa;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  border-left: 4px solid #007bff;
+}
+
+.cta-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #0056b3;
+}
